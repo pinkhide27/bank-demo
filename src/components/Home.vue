@@ -2,7 +2,7 @@
   <div class="home">
     <page-header :title="'共克时艰：招商银行陕西分行与您携手同行！'" :timestr="'2020-02-14'" :author="'招商银行陕西分行'"></page-header>
     <section class="home-banner">
-      <img src="@/assets/images/home_banner.png" alt="banner">
+      <img src="https://note.youdao.com/yws/public/resource/e899e0621ee1dff65b7f4fe15924a96b/xmlnote/40856BC81BF8439194DE83AAA7E6EFB5/10188" alt="banner">
     </section>
     <section class="padding">
       <cross-square>

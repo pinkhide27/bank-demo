@@ -2,7 +2,7 @@
   <div class="manager">
     <page-header :title="'共克时艰：招行资深客户经理为您贴心服务！'" :timestr="'2020-02-14'" :author="'招商银行陕西分行'"></page-header>
     <section class="manager-banner">
-      <img src="@/assets/images/manager_banner.png" alt="banner">
+      <img src="https://note.youdao.com/yws/public/resource/e899e0621ee1dff65b7f4fe15924a96b/xmlnote/B80291998EB14EF5A1931FA3E5DA254B/10190" alt="banner">
     </section>
     <section class="padding">
       <cross-square>
